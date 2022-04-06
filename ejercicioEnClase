@@ -1,0 +1,14 @@
+
+
+crear un funcion que llamemos a pablo, luego un retorno y repetirla con 3 datos diferentes
+
+
+function showInfo(nombre, edad) {
+  return `Eres ${nombre} y tienes ${edad} `;
+}
+console.log(showInfo("Pablo", "33"));
+console.log(showInfo("Carlos", "23"));
+console.log(showInfo("Jose", "40"));
+console.log(showInfo("Maria", "29"));
+
+____________________________________________________________
